@@ -1,0 +1,614 @@
+pattern-1
+----------
+**********
+**********
+**********
+**********
+**********
+**********
+**********
+**********
+**********
+**********
+
+pattern-2
+----------
+1111111111
+2222222222
+3333333333
+4444444444
+5555555555
+6666666666
+7777777777
+8888888888
+9999999999
+10101010101010101010
+
+pattern-3
+----------
+12345678910
+12345678910
+12345678910
+12345678910
+12345678910
+12345678910
+12345678910
+12345678910
+12345678910
+12345678910
+
+pattern-4
+----------
+AAAAAAAAAA
+BBBBBBBBBB
+CCCCCCCCCC
+DDDDDDDDDD
+EEEEEEEEEE
+FFFFFFFFFF
+GGGGGGGGGG
+HHHHHHHHHH
+IIIIIIIIII
+JJJJJJJJJJ
+
+pattern-5
+---------
+ABCDEFGHIJ
+ABCDEFGHIJ
+ABCDEFGHIJ
+ABCDEFGHIJ
+ABCDEFGHIJ
+ABCDEFGHIJ
+ABCDEFGHIJ
+ABCDEFGHIJ
+ABCDEFGHIJ
+ABCDEFGHIJ
+
+pattern-6
+----------
+10101010101010101010
+9999999999
+8888888888
+7777777777
+6666666666
+5555555555
+4444444444
+3333333333
+2222222222
+1111111111
+
+pattern-7
+---------
+10987654321
+10987654321
+10987654321
+10987654321
+10987654321
+10987654321
+10987654321
+10987654321
+10987654321
+10987654321
+
+pattern-8
+---------
+JJJJJJJJJJ
+IIIIIIIIII
+HHHHHHHHHH
+GGGGGGGGGG
+FFFFFFFFFF
+EEEEEEEEEE
+DDDDDDDDDD
+CCCCCCCCCC
+BBBBBBBBBB
+AAAAAAAAAA
+
+pattern-9
+---------
+JIHGFEDCBA
+JIHGFEDCBA
+JIHGFEDCBA
+JIHGFEDCBA
+JIHGFEDCBA
+JIHGFEDCBA
+JIHGFEDCBA
+JIHGFEDCBA
+JIHGFEDCBA
+JIHGFEDCBA
+
+pattern-10
+-----------
+*
+**
+***
+****
+*****
+******
+*******
+********
+*********
+**********
+
+pattern-11
+----------
+1
+22
+333
+4444
+55555
+666666
+7777777
+88888888
+999999999
+10101010101010101010
+
+pattern-12
+-----------
+1
+12
+123
+1234
+12345
+123456
+1234567
+12345678
+123456789
+12345678910
+
+pattern-13
+----------
+A
+BB
+CCC
+DDDD
+EEEEE
+FFFFFF
+GGGGGGG
+HHHHHHHH
+IIIIIIIII
+JJJJJJJJJJ
+
+pattern-14
+-----------
+A
+AB
+ABC
+ABCD
+ABCDE
+ABCDEF
+ABCDEFG
+ABCDEFGH
+ABCDEFGHI
+ABCDEFGHIJ
+
+patter-15
+-----------
+* * * * * * * * * * 
+* * * * * * * * * 
+* * * * * * * * 
+* * * * * * * 
+* * * * * * 
+* * * * * 
+* * * * 
+* * * 
+* * 
+* 
+
+pattern-16
+-----------
+1 1 1 1 1 1 1 1 1 1 
+2 2 2 2 2 2 2 2 2 
+3 3 3 3 3 3 3 3 
+4 4 4 4 4 4 4 
+5 5 5 5 5 5 
+6 6 6 6 6 
+7 7 7 7 
+8 8 8 
+9 9 
+10
+
+pattern-17
+-----------
+1 2 3 4 5 6 7 8 9 10 
+1 2 3 4 5 6 7 8 9 
+1 2 3 4 5 6 7 8 
+1 2 3 4 5 6 7 
+1 2 3 4 5 6 
+1 2 3 4 5 
+1 2 3 4 
+1 2 3 
+1 2 
+1
+
+pattern-18
+----------
+A A A A A A A A A A 
+B B B B B B B B B 
+C C C C C C C C 
+D D D D D D D 
+E E E E E E 
+F F F F F 
+G G G G 
+H H H 
+I I 
+J
+
+pattern-19
+-----------
+A B C D E F G H I J 
+A B C D E F G H I 
+A B C D E F G H 
+A B C D E F G 
+A B C D E F 
+A B C D E 
+A B C D 
+A B C 
+A B 
+A
+
+patters-20
+----------
+10 10 10 10 10 10 10 10 10 10 
+9 9 9 9 9 9 9 9 9 
+8 8 8 8 8 8 8 8 
+7 7 7 7 7 7 7 
+6 6 6 6 6 6 
+5 5 5 5 5 
+4 4 4 4 
+3 3 3 
+2 2 
+1
+
+pattern-21
+-----------
+10 9 8 7 6 5 4 3 2 1 
+10 9 8 7 6 5 4 3 2 
+10 9 8 7 6 5 4 3 
+10 9 8 7 6 5 4 
+10 9 8 7 6 5 
+10 9 8 7 6 
+10 9 8 7 
+10 9 8 
+10 9 
+10
+
+pattern-22
+-----------
+J J J J J J J J J J 
+I I I I I I I I I 
+H H H H H H H H 
+G G G G G G G 
+F F F F F F 
+E E E E E 
+D D D D 
+C C C 
+B B 
+A 
+
+pattern-23
+-----------
+J I H G F E D C B A 
+J I H G F E D C B 
+J I H G F E D C 
+J I H G F E D 
+J I H G F E 
+J I H G F 
+J I H G 
+J I H 
+J I 
+J 
+
+pattern-24
+-----------
+          * 
+         ** 
+        *** 
+       **** 
+      ***** 
+     ****** 
+    ******* 
+   ******** 
+  ********* 
+ **********
+
+patter-25
+----------
+         * 
+        * * 
+       * * * 
+      * * * * 
+     * * * * * 
+    * * * * * * 
+   * * * * * * * 
+  * * * * * * * * 
+ * * * * * * * * * 
+* * * * * * * * * *
+
+pattern-26
+----------
+     1
+
+     22
+
+     333
+
+     4444
+
+     55555
+
+pattern-27
+----------
+         1 
+        1 2 
+       1 2 3 
+      1 2 3 4 
+     1 2 3 4 5 
+    1 2 3 4 5 6 
+   1 2 3 4 5 6 7 
+  1 2 3 4 5 6 7 8 
+ 1 2 3 4 5 6 7 8 9 
+1 2 3 4 5 6 7 8 9 10
+
+pattern-28
+----------
+          A 
+         B B 
+        C C C 
+       D D D D 
+      E E E E E 
+     F F F F F F 
+    G G G G G G G 
+   H H H H H H H H 
+  I I I I I I I I I 
+ J J J J J J J J J J 
+
+pattern-29
+----------
+         A 
+        A B 
+       A B C 
+      A B C D 
+     A B C D E 
+    A B C D E F 
+   A B C D E F G 
+  A B C D E F G H 
+ A B C D E F G H I 
+A B C D E F G H I J
+
+pattern-30
+-----------
+ *****
+  ****
+   ***
+    **
+     *
+pattern-31
+-----------
+ 55555
+  4444
+   333
+    22
+     1
+pattern-32
+----------
+12345
+ 1234
+  123
+   12
+    1
+pattern-33
+----------
+ EEEEE
+ DDDD
+ CCC
+ BB
+ A
+pattern-34:
+----------
+ABCDE     A
+    BBB
+   CCCCC
+  DDDDDDD
+ EEEEEEEEE
+  ABC
+   AB
+    A
+pattern-35
+----------
+         * 
+       * * * 
+     * * * * * 
+   * * * * * * * 
+ * * * * * * * * *
+
+pattern-36
+-----------
+     1
+    222
+   33333
+  4444444
+ 555555555
+
+pattern-37
+-----------
+     A
+    BBB
+   CCCCC
+  DDDDDDD
+ EEEEEEEEE
+
+pattern-38
+----------
+     A
+    CCC
+   EEEEE
+  GGGGGGG
+ IIIIIIIII
+
+pattern-39
+-----------
+    1
+    123
+    12345
+    1234567
+    123456789
+
+pattern-40
+-----------
+    1
+   321
+  54321
+ 7654321
+987654321
+
+pattern-41
+-----------
+    A
+   ABC
+  ABCDE
+ ABCDEFG
+ABCDEFGHI
+
+pattern-42
+----------
+    A
+   CBA
+  EDCBA
+ GFEDCBA
+IHGFEDCBA
+
+pattern-43
+----------
+    0
+   101
+  21012
+ 3210123
+432101234
+
+pattern-44
+----------
+    A
+   BAB
+  CBABC
+ DCBABCD
+EDCBABCDE
+
+pattern-45
+----------
+        1 
+      1 2 1 
+    1 2 3 2 1 
+  1 2 3 4 3 2 1 
+1 2 3 4 5 4 3 2 1
+
+pattern-46
+-----------
+        A 
+      A B A 
+    A B C A B 
+  A B C D A B C 
+A B C D E A B C D
+
+pattern-47
+-----------
+    5 
+   5 4 
+  5 4 3 
+ 5 4 3 2 
+5 4 3 2 1
+
+pattern-48
+-----------
+* * * * * * * * * 
+  * * * * * * * 
+    * * * * * 
+      * * * 
+        * 
+pattern-49
+----------
+5 5 5 5 5 5 5 5 5 
+  4 4 4 4 4 4 4 
+    3 3 3 3 3 
+      2 2 2 
+        1 
+
+pattern-50
+----------
+9 9 9 9 9 9 9 9 9 
+  7 7 7 7 7 7 7 
+    5 5 5 5 5 
+      3 3 3 
+        1 
+
+naresh-special
+--------------
+enter=5
+         * 
+        * * 
+       * * * 
+      * * * * 
+     * * * * * 
+       * * * 
+      * * * * 
+     * * * * * 
+    * * * * * * 
+   * * * * * * * 
+     * * * * * 
+    * * * * * * 
+   * * * * * * * 
+  * * * * * * * * 
+ * * * * * * * * * 
+       * * * 
+       * * * 
+       * * * 
+       * * * 
+       * * * 
+
+enter=8
+
+               * 
+              * * 
+             * * * 
+            * * * * 
+           * * * * * 
+          * * * * * * 
+         * * * * * * * 
+        * * * * * * * * 
+             * * * 
+            * * * * 
+           * * * * * 
+          * * * * * * 
+         * * * * * * * 
+        * * * * * * * * 
+       * * * * * * * * * 
+      * * * * * * * * * * 
+           * * * * * 
+          * * * * * * 
+         * * * * * * * 
+        * * * * * * * * 
+       * * * * * * * * * 
+      * * * * * * * * * * 
+     * * * * * * * * * * * 
+    * * * * * * * * * * * * 
+         * * * * * * * 
+        * * * * * * * * 
+       * * * * * * * * * 
+      * * * * * * * * * * 
+     * * * * * * * * * * * 
+    * * * * * * * * * * * * 
+   * * * * * * * * * * * * * 
+  * * * * * * * * * * * * * * 
+             * * * 
+             * * * 
+             * * * 
+             * * * 
+             * * * 
+             * * * 
+             * * * 
+             * * * 
+
+pattern-51
+-----------
+
+
+
+

@@ -1,0 +1,6 @@
+a=int(input("enter 1st number:"))
+b=float(input("enter 2nd number:"))
+c=int(input("enter 3rd number:"))
+d=float(input("enter 4th number"))
+print("the sum is:",a+b+c+d)
+print("the product is:",a*b*c*d)
